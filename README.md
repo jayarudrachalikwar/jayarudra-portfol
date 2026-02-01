@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! I'm **Chalikwar Jayarudra**, a passionate **B.Tech student specializing in Artificial Intelligence** at **CMR Technical Campus**. This portfolio showcases my journey, skills, projects, and aspirations in the world of technology.
 
-🔗 **Live Portfolio:** [https://jayarudra-portfol.lovable.app/](https://jayarudra-portfol.lovable.app/)
+🔗 **Live Portfolio:** [[https://jayarudra-portfol.lovable.app/](https://jayarudra-portfol.vercel.app/)]
 
 ---
 

@@ -1,149 +1,109 @@
-Chalikwar Jayarudra – Full-Stack & AI/ML Developer Portfolio
+# Chalikwar Jayarudra - AI & Backend Developer Portfolio
 
-Welcome to my personal portfolio! I'm Chalikwar Jayarudra, a passionate B.Tech student specializing in Artificial Intelligence & Machine Learning at CMR Technical Campus. This portfolio highlights my skills, real-world projects, startup experience, and continuous learning journey in technology.
+Welcome to my personal portfolio! I'm **Chalikwar Jayarudra**, a passionate **B.Tech student specializing in Artificial Intelligence** at **CMR Technical Campus**. This portfolio showcases my journey, skills, projects, and aspirations in the world of technology.
 
-🔗 Live Portfolio: jayarudra-portfol.vercel.app
+🔗 **Live Portfolio:** [[https://jayarudra-portfol.lovable.app/](https://jayarudra-portfol.vercel.app/)]
 
-📘 About Me
+---
 
-Name: Chalikwar Jayarudra
+## 📘 About Me
 
-Date of Birth: 8 June 2006
+- **Name:** Chalikwar Jayarudra
+- **Date of Birth:** 8 June 2006
+- **Education:** B.Tech in Artificial Intelligence, CMR Technical Campus (2024–2028)
+- **Email:** [jayarudrachalikwar@gmail.com](mailto:jayarudrachalikwar@gmail.com)
+- **Phone:** +91 9390533738
+- **LinkedIn:** [https://www.linkedin.com/in/chalikwar-jayarudra-1b1b9b378/](https://www.linkedin.com/in/chalikwar-jayarudra-1b1b9b378/)
+- **GitHub:** [https://github.com/jayarudrachalikwar](https://github.com/jayarudrachalikwar)
 
-Education: B.Tech in Artificial Intelligence & Machine Learning
+---
 
-Institute: CMR Technical Campus (2024–2028)
+## 🛠️ Skills
 
-GPA: 9.12 / 10
+- **Programming Languages:** Python, Java, C
+- **Web Development:** HTML, CSS, JavaScript, React (basic)
+- **Tools & Technologies:** Git, GitHub, VS Code, VS Studio, Jupyter Notebook
+- **Other Skills:** Data Structures & Algorithms, Prompt Engineering, SEO
 
-Email: jayarudrachalikwar@gmail.com
+---
 
-Phone: +91 9390533738
+## 💼 Projects
 
-LinkedIn: linkedin.com/in/chalikwar-jayarudra-1b1b9b378
+1. **Voice Assistant (Python)**
+   - A voice-activated assistant capable of performing tasks like opening applications and searching the web.
+   - GitHub: [https://github.com/jayarudrachalikwar/voice-assistant](https://github.com/jayarudrachalikwar/voice-assistant)
 
-GitHub: github.com/jayarudrachalikwar
+2. **Bookmarks Manager (HTML/CSS)**
+   - A web-based application to manage and organize bookmarks efficiently.
+   - GitHub: [https://github.com/jayarudrachalikwar/bookmarks](https://github.com/jayarudrachalikwar/bookmarks)
 
-🛠️ Skills
+3. **Write Assist (AI Writing Helper)**
+   - An AI-powered tool to assist in writing tasks by providing suggestions and improvements.
+   - GitHub: [https://github.com/jayarudrachalikwar/write-assist](https://github.com/jayarudrachalikwar/write-assist)
 
-Programming Languages: Java, Python, C, C++
+4. **Exam Assist Website**
+   - A platform designed to assist students in preparing for exams with resources and tools.
+   - Live Demo: [https://app.base44.com/apps/68abf5abd71dbfdf30beea00/editor/preview/Courses](https://app.base44.com/apps/68abf5abd71dbfdf30beea00/editor/preview/Courses)
 
-Web Development: HTML, CSS, JavaScript, React.js
+5. **Freelance Website (Ongoing)**
+   - A project aimed at creating a platform for freelancers to connect with clients.
+   - GitHub: [https://github.com/jayarudrachalikwar](https://github.com/jayarudrachalikwar)
 
-Backend & Databases: Node.js, Express.js, MySQL, PostgreSQL
+---
 
-Core Concepts: Data Structures & Algorithms (Java), Backend Development, System Thinking
+## 🚀 Features
 
-Tools & Platforms: Git, GitHub, VS Code, Jupyter Notebook
+- **Responsive Design:** Optimized for desktop, tablet, and mobile devices.
+- **Interactive Demos:** Experience live demonstrations of projects like the Voice Assistant.
+- **Modern Aesthetics:** Clean, modern UI with smooth animations and transitions.
+- **Easy Navigation:** Intuitive layout with sections like About Me, Skills, Projects, and Contact.
 
-Other Skills: Prompt Engineering, SEO, Logical Problem Solving, Team Collaboration
+---
 
-💼 Experience
-Web Developer Intern — NSV Finserv (Startup)
+## 🛠️ Technologies Used
 
-📍 Remote | 🕒 Sept 2025 – Present
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Python, Java
+- **Tools:** Git, GitHub, VS Code, VS Studio, Jupyter Notebook
 
-Completed 3-month unpaid training period
+---
 
-Currently in paid internship phase (₹6,000/month)
+## 📄 Resume
 
-Designed, developed, and deployed the company’s official website
+You can download my resume here:
 
-Worked on frontend, backend APIs, and database management
+- [Resume.pdf](#)
 
-Received ₹26,000 team stipend for successful website completion
+---
 
-Internship is ongoing beyond project delivery
+## 📬 Contact
 
-🌐 Live Website: nsvfinserv.com
+Feel free to reach out to me via:
 
-💼 Projects
-1. NSV Finserv – Full-Stack Financial Services Platform
+- **Email:** [jayarudrachalikwar@gmail.com](mailto:jayarudrachalikwar@gmail.com)
+- **Phone:** +91 9390533738
 
-Production-grade startup website built using React, Node.js, Express, and MySQL
+---
 
-Delivered a real business product with a 4-member team
+## 📌 License
 
-Live: nsvfinserv.com
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-2. LMS Compiler Platform
+---
 
-Multi-language LMS compiler supporting C, C++, Java, and Python
+## 🔗 Links
 
-Built using a custom Intermediate Representation (IR) and Virtual Machine
+- **LinkedIn:** [https://www.linkedin.com/in/chalikwar-jayarudra-1b1b9b378/](https://www.linkedin.com/in/chalikwar-jayarudra-1b1b9b378/)
+- **GitHub:** [https://github.com/jayarudrachalikwar](https://github.com/jayarudrachalikwar)
+- **Live Portfolio:** [https://jayarudra-portfol.lovable.app/](https://jayarudra-portfol.lovable.app/)
 
-Designed for secure execution and automated code evaluation
+---
 
-3. Student Buddy
+## 📝 Acknowledgments
 
-Educational platform hosting competitive exam question papers
+- Inspired by various open-source projects and templates available on GitHub.
+- Special thanks to the contributors and communities that provide valuable resources and support.
 
-Provides AI-assisted solutions for better learning outcomes
+---
 
-4. ExamScribe (Social Impact Project)
-
-Connects students with disabilities requiring exam scribes
-
-Volunteers are trained individuals from rural areas
-
-Focused on accessibility, inclusion, and empowerment
-
-5. Voice Assistant (Python)
-
-Voice-controlled assistant capable of executing system commands
-
-GitHub: github.com/jayarudrachalikwar/voice-assistant
-
-6. Bookmarks Manager
-
-Responsive web application to manage and organize bookmarks
-
-GitHub: github.com/jayarudrachalikwar/bookmarks
-
-🚀 Features
-
-Responsive Design: Optimized for desktop, tablet, and mobile
-
-Real-World Projects: Startup and system-level applications
-
-Modern UI: Clean design with smooth animations
-
-Easy Navigation: Clear section-based layout
-
-🛠️ Technologies Used
-
-Frontend: HTML, CSS, JavaScript, React.js
-
-Backend: Node.js, Python, Java
-
-Databases: MySQL, PostgreSQL
-
-Tools: Git, GitHub, VS Code, Jupyter Notebook
-
-📄 Resume
-
-📥 Download Resume: Available on Portfolio
-
-📬 Contact
-
-Email: jayarudrachalikwar@gmail.com
-
-Phone: +91 9390533738
-
-📌 License
-
-This project is licensed under the MIT License.
-
-🔗 Links
-
-LinkedIn: linkedin.com/in/chalikwar-jayarudra-1b1b9b378
-
-GitHub: github.com/jayarudrachalikwar
-
-Live Portfolio: jayarudra-portfol.vercel.app
-
-📝 Acknowledgments
-
-Inspired by open-source projects and modern portfolio designs
-
-Thanks to developer communities and mentors for continuous learning
+Feel free to explore my projects, and don't hesitate to reach out for collaborations, feedback, or opportunities. Let's build the future together!

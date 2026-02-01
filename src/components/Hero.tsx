@@ -129,7 +129,7 @@ const Hero = () => {
             Building production-grade applications at startups
           </motion.p>
 
-          <motion.div 
+          {/* <motion.div 
             className="flex items-center justify-center gap-2 text-sm text-muted-foreground mb-8"
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
@@ -138,7 +138,7 @@ const Hero = () => {
             <Sparkles className="w-4 h-4 text-primary" />
             <span>Currently interning as a Full-Stack Developer at NSV Finserv</span>
           </motion.div>
-        </motion.div>
+        </motion.div> */}
 
         {/* CTA Buttons with hover effects */}
         <motion.div 

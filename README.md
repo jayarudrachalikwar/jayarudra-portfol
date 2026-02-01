@@ -1,14 +1,14 @@
-🚀 Chalikwar Jayarudra — Full-Stack & AI/ML Developer
+Chalikwar Jayarudra – Full-Stack & AI/ML Developer Portfolio
 
-Welcome to my personal portfolio repository!
-I’m Chalikwar Jayarudra, a B.Tech student specializing in Artificial Intelligence & Machine Learning with real startup experience in building production-grade applications. This portfolio represents my skills, projects, and ongoing journey as a developer.
+Welcome to my personal portfolio! I'm Chalikwar Jayarudra, a passionate B.Tech student specializing in Artificial Intelligence & Machine Learning at CMR Technical Campus. This portfolio highlights my skills, real-world projects, startup experience, and continuous learning journey in technology.
 
-🔗 Live Portfolio:
-👉 https://jayarudra-portfol.vercel.app/
+🔗 Live Portfolio: jayarudra-portfol.vercel.app
 
-👋 About Me
+📘 About Me
 
 Name: Chalikwar Jayarudra
+
+Date of Birth: 8 June 2006
 
 Education: B.Tech in Artificial Intelligence & Machine Learning
 
@@ -16,180 +16,134 @@ Institute: CMR Technical Campus (2024–2028)
 
 GPA: 9.12 / 10
 
-Role: Full-Stack Developer Intern (Startup)
+Email: jayarudrachalikwar@gmail.com
 
-Interests: Backend Development, DSA, Compiler Design, AI/ML
+Phone: +91 9390533738
 
-I enjoy building real-world software, not just demos — from startup websites to system-level projects like compilers and LMS platforms.
+LinkedIn: linkedin.com/in/chalikwar-jayarudra-1b1b9b378
 
-💼 Current Experience
+GitHub: github.com/jayarudrachalikwar
+
+🛠️ Skills
+
+Programming Languages: Java, Python, C, C++
+
+Web Development: HTML, CSS, JavaScript, React.js
+
+Backend & Databases: Node.js, Express.js, MySQL, PostgreSQL
+
+Core Concepts: Data Structures & Algorithms (Java), Backend Development, System Thinking
+
+Tools & Platforms: Git, GitHub, VS Code, Jupyter Notebook
+
+Other Skills: Prompt Engineering, SEO, Logical Problem Solving, Team Collaboration
+
+💼 Experience
 Web Developer Intern — NSV Finserv (Startup)
 
 📍 Remote | 🕒 Sept 2025 – Present
 
-Started with 3 months unpaid training
+Completed 3-month unpaid training period
 
 Currently in paid internship phase (₹6,000/month)
 
-Successfully completed and deployed the company’s official website
+Designed, developed, and deployed the company’s official website
 
-Received a ₹26,000 team stipend for successful website delivery
+Worked on frontend, backend APIs, and database management
 
-Working as a Full-Stack Developer using React, Node.js, Express, and MySQL
+Received ₹26,000 team stipend for successful website completion
 
-🌐 Live Website: https://nsvfinserv.com
+Internship is ongoing beyond project delivery
 
-🛠️ Technical Skills
-Programming Languages
+🌐 Live Website: nsvfinserv.com
 
-Java (DSA focused)
+💼 Projects
+1. NSV Finserv – Full-Stack Financial Services Platform
 
-Python
+Production-grade startup website built using React, Node.js, Express, and MySQL
 
-C / C++
+Delivered a real business product with a 4-member team
 
-Web Development
+Live: nsvfinserv.com
 
-React.js
+2. LMS Compiler Platform
 
-Node.js
+Multi-language LMS compiler supporting C, C++, Java, and Python
 
-Express.js
-
-HTML, CSS, JavaScript
-
-MySQL, PostgreSQL
-
-Core Strengths
-
-Data Structures & Algorithms (Java)
-
-Backend API Development
-
-Database Design
-
-System Design Basics
-
-Logical Problem Solving
-
-Team Collaboration
-
-Tools
-
-Git & GitHub
-
-VS Code
-
-Jupyter Notebook
-
-🚀 Featured Projects
-🔹 NSV Finserv — Full-Stack Financial Services Platform
-
-Built and deployed a production-grade startup website
-
-Developed backend APIs and managed database operations
-
-Created a responsive frontend with React
-
-Worked in a 4-member team
-
-Live: https://nsvfinserv.com
-
-🔹 LMS Compiler Platform
-
-A multi-language LMS compiler system
-
-Supports C, C++, Java, and Python
-
-Built with a custom Intermediate Representation (IR) and Virtual Machine
+Built using a custom Intermediate Representation (IR) and Virtual Machine
 
 Designed for secure execution and automated code evaluation
 
-Demonstrates system-level and compiler design skills
-
-📂 Other Projects
-🔸 Student Buddy
+3. Student Buddy
 
 Educational platform hosting competitive exam question papers
 
-Includes AI-assisted solutions for students
+Provides AI-assisted solutions for better learning outcomes
 
-Focused on improving exam preparation and learning efficiency
+4. ExamScribe (Social Impact Project)
 
-🔸 ExamScribe (Social Impact Project)
+Connects students with disabilities requiring exam scribes
 
-Platform connecting students with disabilities who require scribes during exams
+Volunteers are trained individuals from rural areas
 
-Volunteers are trained individuals from rural areas with basic reading and writing skills
+Focused on accessibility, inclusion, and empowerment
 
-Creates a mutually beneficial and inclusive ecosystem
+5. Voice Assistant (Python)
 
-Focused on accessibility, empowerment, and education
+Voice-controlled assistant capable of executing system commands
 
-🔸 Voice Assistant (Python)
+GitHub: github.com/jayarudrachalikwar/voice-assistant
 
-Voice-controlled assistant capable of executing tasks via commands
+6. Bookmarks Manager
 
-GitHub: https://github.com/jayarudrachalikwar/voice-assistant
+Responsive web application to manage and organize bookmarks
 
-🔸 Bookmarks Manager
+GitHub: github.com/jayarudrachalikwar/bookmarks
 
-Responsive web interface to manage and organize bookmarks
+🚀 Features
 
-GitHub: https://github.com/jayarudrachalikwar/bookmarks
+Responsive Design: Optimized for desktop, tablet, and mobile
 
-📜 Certifications & Training
+Real-World Projects: Startup and system-level applications
 
-Hashgraph Developer Course — The Hashgraph Association
+Modern UI: Clean design with smooth animations
 
-GenAI for Professionals: 10x Your Productivity — Udemy
+Easy Navigation: Clear section-based layout
 
-Introduction to Python — Infosys Springboard
+🛠️ Technologies Used
 
-C Programming Training — IIT Bombay (EduPyramids)
+Frontend: HTML, CSS, JavaScript, React.js
 
-🏆 Hackathons & Workshops
-Hackathons
+Backend: Node.js, Python, Java
 
-HackWithHyderabad Hackathon — Microsoft Office, Hyderabad
+Databases: MySQL, PostgreSQL
 
-Technovanza 5.0 — Smart India Hackathon 2025 (Internal Round)
-
-Workshops
-
-Code to Cloud: AI Edition — Codeoholics Community
-
-Bridging AI/ML with Power BI — CMR Technical Campus
-
-🎯 Leadership
-
-Campus Ambassador — Kitech
+Tools: Git, GitHub, VS Code, Jupyter Notebook
 
 📄 Resume
 
-📥 Download Resume:
-👉 Available on my portfolio website
+📥 Download Resume: Available on Portfolio
 
-📬 Contact Me
+📬 Contact
 
 Email: jayarudrachalikwar@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/chalikwar-jayarudra-1b1b9b378/
-
-GitHub: https://github.com/jayarudrachalikwar
+Phone: +91 9390533738
 
 📌 License
 
 This project is licensed under the MIT License.
 
-🙌 Final Note
+🔗 Links
 
-I’m actively looking for internship and growth opportunities where I can:
+LinkedIn: linkedin.com/in/chalikwar-jayarudra-1b1b9b378
 
-Build real products
+GitHub: github.com/jayarudrachalikwar
 
-Learn from experienced engineers
+Live Portfolio: jayarudra-portfol.vercel.app
 
-Work on impactful problems
+📝 Acknowledgments
 
-If you’re interested in collaborating or hiring — let’s connect 🚀
+Inspired by open-source projects and modern portfolio designs
+
+Thanks to developer communities and mentors for continuous learning

@@ -1,109 +1,195 @@
-# Chalikwar Jayarudra - AI & Backend Developer Portfolio
+🚀 Chalikwar Jayarudra — Full-Stack & AI/ML Developer
 
-Welcome to my personal portfolio! I'm **Chalikwar Jayarudra**, a passionate **B.Tech student specializing in Artificial Intelligence** at **CMR Technical Campus**. This portfolio showcases my journey, skills, projects, and aspirations in the world of technology.
+Welcome to my personal portfolio repository!
+I’m Chalikwar Jayarudra, a B.Tech student specializing in Artificial Intelligence & Machine Learning with real startup experience in building production-grade applications. This portfolio represents my skills, projects, and ongoing journey as a developer.
 
-🔗 **Live Portfolio:** [[https://jayarudra-portfol.lovable.app/](https://jayarudra-portfol.vercel.app/)]
+🔗 Live Portfolio:
+👉 https://jayarudra-portfol.vercel.app/
 
----
+👋 About Me
 
-## 📘 About Me
+Name: Chalikwar Jayarudra
 
-- **Name:** Chalikwar Jayarudra
-- **Date of Birth:** 8 June 2006
-- **Education:** B.Tech in Artificial Intelligence, CMR Technical Campus (2024–2028)
-- **Email:** [jayarudrachalikwar@gmail.com](mailto:jayarudrachalikwar@gmail.com)
-- **Phone:** +91 9390533738
-- **LinkedIn:** [https://www.linkedin.com/in/chalikwar-jayarudra-1b1b9b378/](https://www.linkedin.com/in/chalikwar-jayarudra-1b1b9b378/)
-- **GitHub:** [https://github.com/jayarudrachalikwar](https://github.com/jayarudrachalikwar)
+Education: B.Tech in Artificial Intelligence & Machine Learning
 
----
+Institute: CMR Technical Campus (2024–2028)
 
-## 🛠️ Skills
+GPA: 9.12 / 10
 
-- **Programming Languages:** Python, Java, C
-- **Web Development:** HTML, CSS, JavaScript, React (basic)
-- **Tools & Technologies:** Git, GitHub, VS Code, VS Studio, Jupyter Notebook
-- **Other Skills:** Data Structures & Algorithms, Prompt Engineering, SEO
+Role: Full-Stack Developer Intern (Startup)
 
----
+Interests: Backend Development, DSA, Compiler Design, AI/ML
 
-## 💼 Projects
+I enjoy building real-world software, not just demos — from startup websites to system-level projects like compilers and LMS platforms.
 
-1. **Voice Assistant (Python)**
-   - A voice-activated assistant capable of performing tasks like opening applications and searching the web.
-   - GitHub: [https://github.com/jayarudrachalikwar/voice-assistant](https://github.com/jayarudrachalikwar/voice-assistant)
+💼 Current Experience
+Web Developer Intern — NSV Finserv (Startup)
 
-2. **Bookmarks Manager (HTML/CSS)**
-   - A web-based application to manage and organize bookmarks efficiently.
-   - GitHub: [https://github.com/jayarudrachalikwar/bookmarks](https://github.com/jayarudrachalikwar/bookmarks)
+📍 Remote | 🕒 Sept 2025 – Present
 
-3. **Write Assist (AI Writing Helper)**
-   - An AI-powered tool to assist in writing tasks by providing suggestions and improvements.
-   - GitHub: [https://github.com/jayarudrachalikwar/write-assist](https://github.com/jayarudrachalikwar/write-assist)
+Started with 3 months unpaid training
 
-4. **Exam Assist Website**
-   - A platform designed to assist students in preparing for exams with resources and tools.
-   - Live Demo: [https://app.base44.com/apps/68abf5abd71dbfdf30beea00/editor/preview/Courses](https://app.base44.com/apps/68abf5abd71dbfdf30beea00/editor/preview/Courses)
+Currently in paid internship phase (₹6,000/month)
 
-5. **Freelance Website (Ongoing)**
-   - A project aimed at creating a platform for freelancers to connect with clients.
-   - GitHub: [https://github.com/jayarudrachalikwar](https://github.com/jayarudrachalikwar)
+Successfully completed and deployed the company’s official website
 
----
+Received a ₹26,000 team stipend for successful website delivery
 
-## 🚀 Features
+Working as a Full-Stack Developer using React, Node.js, Express, and MySQL
 
-- **Responsive Design:** Optimized for desktop, tablet, and mobile devices.
-- **Interactive Demos:** Experience live demonstrations of projects like the Voice Assistant.
-- **Modern Aesthetics:** Clean, modern UI with smooth animations and transitions.
-- **Easy Navigation:** Intuitive layout with sections like About Me, Skills, Projects, and Contact.
+🌐 Live Website: https://nsvfinserv.com
 
----
+🛠️ Technical Skills
+Programming Languages
 
-## 🛠️ Technologies Used
+Java (DSA focused)
 
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Python, Java
-- **Tools:** Git, GitHub, VS Code, VS Studio, Jupyter Notebook
+Python
 
----
+C / C++
 
-## 📄 Resume
+Web Development
 
-You can download my resume here:
+React.js
 
-- [Resume.pdf](#)
+Node.js
 
----
+Express.js
 
-## 📬 Contact
+HTML, CSS, JavaScript
 
-Feel free to reach out to me via:
+MySQL, PostgreSQL
 
-- **Email:** [jayarudrachalikwar@gmail.com](mailto:jayarudrachalikwar@gmail.com)
-- **Phone:** +91 9390533738
+Core Strengths
 
----
+Data Structures & Algorithms (Java)
 
-## 📌 License
+Backend API Development
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Database Design
 
----
+System Design Basics
 
-## 🔗 Links
+Logical Problem Solving
 
-- **LinkedIn:** [https://www.linkedin.com/in/chalikwar-jayarudra-1b1b9b378/](https://www.linkedin.com/in/chalikwar-jayarudra-1b1b9b378/)
-- **GitHub:** [https://github.com/jayarudrachalikwar](https://github.com/jayarudrachalikwar)
-- **Live Portfolio:** [https://jayarudra-portfol.lovable.app/](https://jayarudra-portfol.lovable.app/)
+Team Collaboration
 
----
+Tools
 
-## 📝 Acknowledgments
+Git & GitHub
 
-- Inspired by various open-source projects and templates available on GitHub.
-- Special thanks to the contributors and communities that provide valuable resources and support.
+VS Code
 
----
+Jupyter Notebook
 
-Feel free to explore my projects, and don't hesitate to reach out for collaborations, feedback, or opportunities. Let's build the future together!
+🚀 Featured Projects
+🔹 NSV Finserv — Full-Stack Financial Services Platform
+
+Built and deployed a production-grade startup website
+
+Developed backend APIs and managed database operations
+
+Created a responsive frontend with React
+
+Worked in a 4-member team
+
+Live: https://nsvfinserv.com
+
+🔹 LMS Compiler Platform
+
+A multi-language LMS compiler system
+
+Supports C, C++, Java, and Python
+
+Built with a custom Intermediate Representation (IR) and Virtual Machine
+
+Designed for secure execution and automated code evaluation
+
+Demonstrates system-level and compiler design skills
+
+📂 Other Projects
+🔸 Student Buddy
+
+Educational platform hosting competitive exam question papers
+
+Includes AI-assisted solutions for students
+
+Focused on improving exam preparation and learning efficiency
+
+🔸 ExamScribe (Social Impact Project)
+
+Platform connecting students with disabilities who require scribes during exams
+
+Volunteers are trained individuals from rural areas with basic reading and writing skills
+
+Creates a mutually beneficial and inclusive ecosystem
+
+Focused on accessibility, empowerment, and education
+
+🔸 Voice Assistant (Python)
+
+Voice-controlled assistant capable of executing tasks via commands
+
+GitHub: https://github.com/jayarudrachalikwar/voice-assistant
+
+🔸 Bookmarks Manager
+
+Responsive web interface to manage and organize bookmarks
+
+GitHub: https://github.com/jayarudrachalikwar/bookmarks
+
+📜 Certifications & Training
+
+Hashgraph Developer Course — The Hashgraph Association
+
+GenAI for Professionals: 10x Your Productivity — Udemy
+
+Introduction to Python — Infosys Springboard
+
+C Programming Training — IIT Bombay (EduPyramids)
+
+🏆 Hackathons & Workshops
+Hackathons
+
+HackWithHyderabad Hackathon — Microsoft Office, Hyderabad
+
+Technovanza 5.0 — Smart India Hackathon 2025 (Internal Round)
+
+Workshops
+
+Code to Cloud: AI Edition — Codeoholics Community
+
+Bridging AI/ML with Power BI — CMR Technical Campus
+
+🎯 Leadership
+
+Campus Ambassador — Kitech
+
+📄 Resume
+
+📥 Download Resume:
+👉 Available on my portfolio website
+
+📬 Contact Me
+
+Email: jayarudrachalikwar@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/chalikwar-jayarudra-1b1b9b378/
+
+GitHub: https://github.com/jayarudrachalikwar
+
+📌 License
+
+This project is licensed under the MIT License.
+
+🙌 Final Note
+
+I’m actively looking for internship and growth opportunities where I can:
+
+Build real products
+
+Learn from experienced engineers
+
+Work on impactful problems
+
+If you’re interested in collaborating or hiring — let’s connect 🚀

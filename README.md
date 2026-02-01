@@ -1,109 +1,153 @@
-# Chalikwar Jayarudra - AI & Backend Developer Portfolio
+# 🚀 Chalikwar Jayarudra — AI & Backend Developer Portfolio
 
-Welcome to my personal portfolio! I'm **Chalikwar Jayarudra**, a passionate **B.Tech student specializing in Artificial Intelligence** at **CMR Technical Campus**. This portfolio showcases my journey, skills, projects, and aspirations in the world of technology.
+Welcome to my personal portfolio!  
+I'm **Chalikwar Jayarudra**, a passionate **B.Tech student specializing in Artificial Intelligence & Machine Learning** at **CMR Technical Campus**.  
+This portfolio showcases my journey, skills, projects, and aspirations in the world of technology.
 
-🔗 **Live Portfolio:** [[https://jayarudra-portfol.lovable.app/](https://jayarudra-portfol.vercel.app/)]
-
----
-
-## 📘 About Me
-
-- **Name:** Chalikwar Jayarudra
-- **Date of Birth:** 8 June 2006
-- **Education:** B.Tech in Artificial Intelligence, CMR Technical Campus (2024–2028)
-- **Email:** [jayarudrachalikwar@gmail.com](mailto:jayarudrachalikwar@gmail.com)
-- **Phone:** +91 9390533738
-- **LinkedIn:** [https://www.linkedin.com/in/chalikwar-jayarudra-1b1b9b378/](https://www.linkedin.com/in/chalikwar-jayarudra-1b1b9b378/)
-- **GitHub:** [https://github.com/jayarudrachalikwar](https://github.com/jayarudrachalikwar)
+🔗 **Live Portfolio:**  
+👉 [jayarudra-portfol.vercel.app](https://jayarudra-portfol.vercel.app)
 
 ---
 
-## 🛠️ Skills
+## 👋 About Me
 
-- **Programming Languages:** Python, Java, C
-- **Web Development:** HTML, CSS, JavaScript, React (basic)
-- **Tools & Technologies:** Git, GitHub, VS Code, VS Studio, Jupyter Notebook
-- **Other Skills:** Data Structures & Algorithms, Prompt Engineering, SEO
+- 🎓 **Name:** Chalikwar Jayarudra  
+- 🎂 **Date of Birth:** 8 June 2006  
+- 🏫 **Education:** B.Tech in Artificial Intelligence & Machine Learning  
+- 📍 **Institute:** CMR Technical Campus (2024–2028)  
+- 📧 **Email:** [jayarudrachalikwar@gmail.com](mailto:jayarudrachalikwar@gmail.com)  
+- 📞 **Phone:** +91 9390533738  
+- 💼 **LinkedIn:** [chalikwar-jayarudra](https://www.linkedin.com/in/chalikwar-jayarudra-1b1b9b378/)  
+- 🧑‍💻 **GitHub:** [jayarudrachalikwar](https://github.com/jayarudrachalikwar)
+
+---
+
+## 🛠️ Skills & Expertise
+
+### 💻 Programming Languages
+- Python  
+- Java  
+- C  
+
+### 🌐 Web Development
+- HTML  
+- CSS  
+- JavaScript  
+- React (basic)
+
+### 🧠 Core Concepts
+- Data Structures & Algorithms  
+- Prompt Engineering  
+- SEO  
+- Logical Problem Solving  
+
+### 🧰 Tools & Technologies
+- Git & GitHub  
+- VS Code  
+- Visual Studio  
+- Jupyter Notebook  
 
 ---
 
 ## 💼 Projects
 
-1. **Voice Assistant (Python)**
-   - A voice-activated assistant capable of performing tasks like opening applications and searching the web.
-   - GitHub: [https://github.com/jayarudrachalikwar/voice-assistant](https://github.com/jayarudrachalikwar/voice-assistant)
-
-2. **Bookmarks Manager (HTML/CSS)**
-   - A web-based application to manage and organize bookmarks efficiently.
-   - GitHub: [https://github.com/jayarudrachalikwar/bookmarks](https://github.com/jayarudrachalikwar/bookmarks)
-
-3. **Write Assist (AI Writing Helper)**
-   - An AI-powered tool to assist in writing tasks by providing suggestions and improvements.
-   - GitHub: [https://github.com/jayarudrachalikwar/write-assist](https://github.com/jayarudrachalikwar/write-assist)
-
-4. **Exam Assist Website**
-   - A platform designed to assist students in preparing for exams with resources and tools.
-   - Live Demo: [https://app.base44.com/apps/68abf5abd71dbfdf30beea00/editor/preview/Courses](https://app.base44.com/apps/68abf5abd71dbfdf30beea00/editor/preview/Courses)
-
-5. **Freelance Website (Ongoing)**
-   - A project aimed at creating a platform for freelancers to connect with clients.
-   - GitHub: [https://github.com/jayarudrachalikwar](https://github.com/jayarudrachalikwar)
+### 🔹 Voice Assistant (Python)
+- 🎙️ Voice-activated assistant for executing system tasks and web searches  
+- 🔗 **GitHub:** [voice-assistant](https://github.com/jayarudrachalikwar/voice-assistant)
 
 ---
 
-## 🚀 Features
-
-- **Responsive Design:** Optimized for desktop, tablet, and mobile devices.
-- **Interactive Demos:** Experience live demonstrations of projects like the Voice Assistant.
-- **Modern Aesthetics:** Clean, modern UI with smooth animations and transitions.
-- **Easy Navigation:** Intuitive layout with sections like About Me, Skills, Projects, and Contact.
+### 🔹 Bookmarks Manager (HTML / CSS)
+- 🔖 Web-based application to manage and organize bookmarks efficiently  
+- 🔗 **GitHub:** [bookmarks](https://github.com/jayarudrachalikwar/bookmarks)
 
 ---
 
-## 🛠️ Technologies Used
+### 🔹 Write Assist (AI Writing Helper)
+- ✍️ AI-powered writing assistant that provides suggestions and improvements  
+- 🔗 **GitHub:** [write-assist](https://github.com/jayarudrachalikwar/write-assist)
 
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Python, Java
-- **Tools:** Git, GitHub, VS Code, VS Studio, Jupyter Notebook
+---
+
+### 🔹 Exam Assist Website
+- 📚 Platform designed to help students prepare for exams with structured resources  
+- 🌐 **Live Demo:**  
+  [View Exam Assist](https://app.base44.com/apps/68abf5abd71dbfdf30beea00/editor/preview/Courses)
+
+---
+
+### 🔹 Freelance Website (Ongoing)
+- 💼 Platform aimed at connecting freelancers with clients  
+- 🔗 **GitHub:** [Project Repository](https://github.com/jayarudrachalikwar)
+
+---
+
+## 🚀 Portfolio Features
+
+- 📱 **Responsive Design** — Works across desktop, tablet, and mobile  
+- 🎮 **Interactive Demos** — Live previews of projects  
+- 🎨 **Modern UI** — Clean design with smooth animations  
+- 🧭 **Easy Navigation** — Well-structured sections
+
+---
+
+## 🧑‍💻 Technologies Used
+
+### Frontend
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+
+### Backend
+- Python  
+- Java  
+
+### Tools
+- Git  
+- GitHub  
+- VS Code  
+- Jupyter Notebook  
 
 ---
 
 ## 📄 Resume
 
-You can download my resume here:
-
-- [Resume.pdf](#)
+📥 **Download Resume:**  
+👉 [Resume.pdf](#)
 
 ---
 
-## 📬 Contact
+## 📬 Contact Me
 
-Feel free to reach out to me via:
+Feel free to reach out for collaborations, feedback, or opportunities:
 
-- **Email:** [jayarudrachalikwar@gmail.com](mailto:jayarudrachalikwar@gmail.com)
-- **Phone:** +91 9390533738
+- 📧 **Email:** [jayarudrachalikwar@gmail.com](mailto:jayarudrachalikwar@gmail.com)  
+- 📞 **Phone:** +91 9390533738  
 
 ---
 
 ## 📌 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+📜 This project is licensed under the **MIT License**  
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🔗 Links
+## 🔗 Quick Links
 
-- **LinkedIn:** [https://www.linkedin.com/in/chalikwar-jayarudra-1b1b9b378/](https://www.linkedin.com/in/chalikwar-jayarudra-1b1b9b378/)
-- **GitHub:** [https://github.com/jayarudrachalikwar](https://github.com/jayarudrachalikwar)
-- **Live Portfolio:** [https://jayarudra-portfol.lovable.app/](https://jayarudra-portfol.lovable.app/)
-
----
-
-## 📝 Acknowledgments
-
-- Inspired by various open-source projects and templates available on GitHub.
-- Special thanks to the contributors and communities that provide valuable resources and support.
+- 💼 **LinkedIn:** [chalikwar-jayarudra](https://www.linkedin.com/in/chalikwar-jayarudra-1b1b9b378/)  
+- 🧑‍💻 **GitHub:** [jayarudrachalikwar](https://github.com/jayarudrachalikwar)  
+- 🌐 **Live Portfolio:** [jayarudra-portfol.vercel.app](https://jayarudra-portfol.vercel.app)
 
 ---
 
-Feel free to explore my projects, and don't hesitate to reach out for collaborations, feedback, or opportunities. Let's build the future together!
+## 🙌 Acknowledgments
+
+- Inspired by open-source projects and developer communities  
+- Thanks to mentors, contributors, and platforms that support learning  
+
+---
+
+⭐ *Feel free to explore my projects and connect with me.  
+Let’s build the future together!* 🚀

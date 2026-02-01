@@ -137,8 +137,8 @@ const Hero = () => {
           >
             <Sparkles className="w-4 h-4 text-primary" />
             <span>Currently interning as a Full-Stack Developer at NSV Finserv</span>
-          </motion.div>
-        </motion.div> */}
+          </motion.div>*/}
+        </motion.div> 
 
         {/* CTA Buttons with hover effects */}
         <motion.div 
